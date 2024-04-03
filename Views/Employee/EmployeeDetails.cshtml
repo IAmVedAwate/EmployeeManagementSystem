@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Employee Details</h1>
+
+<div class="row">
+    @foreach (var obj in Model)
+    {
+        <div class="col-md-4 border">
+            <h3 class="border border-light">@obj.Name</h3>
+            @if (obj.PhotoPath!=null){
+                <img class="card-img-top" src="~/img/@obj.PhotoPath" />
+            }
+            else
+            {
+                <img class="card-img-top" src="~/img/noimage.png" />
+            }
+            <div class="row justify-content-center">
+                <a class="col-md-2 my-2 mx-1 btn btn-primary" asp-controller="Employee" asp-action="Details" asp-route-id="@obj.Id">View</a>
+                <a class="col-md-2 my-2 mx-1 btn btn-primary" asp-route-id="@obj.Id" asp-action="Edit" asp-controller="Employee">Edit</a>
+                <a class="col-md-2 my-2 mx-1 btn btn-danger" asp-route-id="@obj.Id" asp-action="DeleteBtn" asp-controller="Employee">Delete</a>
+            </div>
+
+        </div>
+
+    }
+</div>

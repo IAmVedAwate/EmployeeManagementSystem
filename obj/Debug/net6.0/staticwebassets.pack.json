@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmployeeManagement.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\05536a42-3b1e-49a5-8088-ee2fbe2614f0_david-leveque-esvWH-owWug-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\05536a42-3b1e-49a5-8088-ee2fbe2614f0_david-leveque-esvWH-owWug-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\0a97c264-4cd8-4261-b54c-601089341298_tower2.jpg",
+      "PackagePath": "staticwebassets\\img\\0a97c264-4cd8-4261-b54c-601089341298_tower2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\0d134752-41d9-4797-a86d-63957b2c7947_Screenshot (2).png",
+      "PackagePath": "staticwebassets\\img\\0d134752-41d9-4797-a86d-63957b2c7947_Screenshot (2).png"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\0d316206-15ad-4752-96e6-581866c2b117_pexels-vlad-alexandru-popa-1402787.jpg",
+      "PackagePath": "staticwebassets\\img\\0d316206-15ad-4752-96e6-581866c2b117_pexels-vlad-alexandru-popa-1402787.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\36954150-aa0e-4359-ba2a-0b2c04158270_wallpaperflare.com_wallpaper (6).jpg",
+      "PackagePath": "staticwebassets\\img\\36954150-aa0e-4359-ba2a-0b2c04158270_wallpaperflare.com_wallpaper (6).jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\55e09c99-0dd4-435a-8c02-9be4c0aa7c29_cowboy1.jpg",
+      "PackagePath": "staticwebassets\\img\\55e09c99-0dd4-435a-8c02-9be4c0aa7c29_cowboy1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\61427fed-2cd5-4c3d-8eba-fd34fdbe3cac_tower2.jpg",
+      "PackagePath": "staticwebassets\\img\\61427fed-2cd5-4c3d-8eba-fd34fdbe3cac_tower2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\65d71f38-7937-418c-9df0-df8724d2bf12_tower2.jpg",
+      "PackagePath": "staticwebassets\\img\\65d71f38-7937-418c-9df0-df8724d2bf12_tower2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\6dfc2537-5121-40e8-a083-8a9fb97299e6_wallpaperflare.com_wallpaper2.jpg",
+      "PackagePath": "staticwebassets\\img\\6dfc2537-5121-40e8-a083-8a9fb97299e6_wallpaperflare.com_wallpaper2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\6f5eca98-6b50-483b-b648-a569e634ba6c_wallpaperflare.com_wallpaper1.jpg",
+      "PackagePath": "staticwebassets\\img\\6f5eca98-6b50-483b-b648-a569e634ba6c_wallpaperflare.com_wallpaper1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\708fa2bd-1499-4e3e-9ec4-df9b7615b35a_wallpaperflare.com_wallpaper1.jpg",
+      "PackagePath": "staticwebassets\\img\\708fa2bd-1499-4e3e-9ec4-df9b7615b35a_wallpaperflare.com_wallpaper1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\7bbd01b7-b067-4293-9170-c201fef342c0_lockscreen1.jpg",
+      "PackagePath": "staticwebassets\\img\\7bbd01b7-b067-4293-9170-c201fef342c0_lockscreen1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\7cf733ec-4ddf-4afc-9aba-b99db2e3afe8_Screenshot (42).png",
+      "PackagePath": "staticwebassets\\img\\7cf733ec-4ddf-4afc-9aba-b99db2e3afe8_Screenshot (42).png"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\8d928598-82a4-41d8-b972-c9169d4c119b_pexels-veeterzy-39811.jpg",
+      "PackagePath": "staticwebassets\\img\\8d928598-82a4-41d8-b972-c9169d4c119b_pexels-veeterzy-39811.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\98ea98ee-61e8-4f40-b096-d3c7c8901516_wallpaperflare.com_wallpaper1.jpg",
+      "PackagePath": "staticwebassets\\img\\98ea98ee-61e8-4f40-b096-d3c7c8901516_wallpaperflare.com_wallpaper1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\9b5b2e39-c36b-4a81-9b98-dfd422370fc2_wallpaperflare.com_wallpaper2.jpg",
+      "PackagePath": "staticwebassets\\img\\9b5b2e39-c36b-4a81-9b98-dfd422370fc2_wallpaperflare.com_wallpaper2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\a9280fc6-0393-4f0b-a62f-48e825498f0f_pexels-vlad-alexandru-popa-1402787.jpg",
+      "PackagePath": "staticwebassets\\img\\a9280fc6-0393-4f0b-a62f-48e825498f0f_pexels-vlad-alexandru-popa-1402787.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\ca0ecfb0-9fa6-4b15-a6f0-4399a9525a19_wallpaperflare.com_wallpaper1.jpg",
+      "PackagePath": "staticwebassets\\img\\ca0ecfb0-9fa6-4b15-a6f0-4399a9525a19_wallpaperflare.com_wallpaper1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\cc756c92-dfbe-4766-8fb4-0cfe49446dfb_Screenshot (12).png",
+      "PackagePath": "staticwebassets\\img\\cc756c92-dfbe-4766-8fb4-0cfe49446dfb_Screenshot (12).png"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\cc93d462-0958-4bcc-b064-fb26920ac39a_1444092-4k-games-wallpaper-3840x2160-for-iphone-7.jpg",
+      "PackagePath": "staticwebassets\\img\\cc93d462-0958-4bcc-b064-fb26920ac39a_1444092-4k-games-wallpaper-3840x2160-for-iphone-7.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\d9974485-58f1-40a7-a39d-f406cd8fec8d_Screenshot (11).png",
+      "PackagePath": "staticwebassets\\img\\d9974485-58f1-40a7-a39d-f406cd8fec8d_Screenshot (11).png"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\f04bd204-d65c-46b9-b521-f43f0c41ff93_cowboy1.jpg",
+      "PackagePath": "staticwebassets\\img\\f04bd204-d65c-46b9-b521-f43f0c41ff93_cowboy1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\f20378d4-e41d-493d-b7c7-59a71711350b_tower1.jpg",
+      "PackagePath": "staticwebassets\\img\\f20378d4-e41d-493d-b7c7-59a71711350b_tower1.jpg"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\img\\noimage.png",
+      "PackagePath": "staticwebassets\\img\\noimage.png"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\New_Practice_Project\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EmployeeManagement.props",
+      "PackagePath": "build\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeManagement.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EmployeeManagement.props",
+      "PackagePath": "buildTransitive\\EmployeeManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

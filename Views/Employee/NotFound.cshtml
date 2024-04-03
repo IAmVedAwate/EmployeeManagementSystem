@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model int
+@{
+    ViewData["Title"] = "Not Found Page";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6 bg-warning p-3">
+        <div class="text-danger h1">405 Not Found</div>
+        <div class="text-danger h2">record no. @Model doesn't exist</div>
+        <br />
+        <a class="btn btn-dark" asp-action="EmployeeDetails">Click Here to See All Employees</a>
+    </div>
+</div>
